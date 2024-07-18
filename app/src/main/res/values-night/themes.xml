@@ -4,4 +4,6 @@
         <!-- Customize your dark theme here. -->
         <item name="colorPrimary">@color/red</item>
     </style>
+
+    <style name="Theme.Trabalho3" parent="Base.Theme.Trabalho3" />
 </resources>
